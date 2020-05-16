@@ -1,0 +1,26 @@
+{
+  "name": "m2m-production",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "pm2": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenrilea/m2m-production.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenrilea/m2m-production/issues"
+  },
+  "homepage": "https://github.com/kenrilea/m2m-production#readme"
+}
